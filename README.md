@@ -30,6 +30,6 @@ node server.js
 
 to start the server.
 
-You should then be able to go to http://localhost:8080/ to try it out.
+You should then be able to go to [http://localhost:8080/](http://localhost:8080/) to try it out.
 
 Make sure you run `make` after making any changes.
