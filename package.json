@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "name": "shet-client-example",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomjnixon/shet-browser-example.git"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "shet-client": "*",
+    "coffee-script": "*",
+    "browserify": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
