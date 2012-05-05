@@ -1,5 +1,7 @@
 # shet-client.js Example
 
+An example of using [shet-client.js](https://github.com/18sg/shet-client.js) in the browser.
+
 ## Dependencies
 
 Make sure `node` is installed, then:
