@@ -18,7 +18,7 @@ This contains a web server which both serves static files from `public`, and all
 
 ### test.coffee
 
-The script that runs on the web page.
+The script that runs on the web page. Have a look at the [shet-client.js API](https://github.com/18sg/shet-client.js#the-api) to see what's possible.
 
 ## Running
 
